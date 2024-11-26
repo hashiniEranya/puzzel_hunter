@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_corner_radius">15dp</dimen>
+    <dimen name="slots_card_corner_radius">8dp</dimen>
+    <dimen name="pin_button_width">50dp</dimen>
+
+
+</resources>

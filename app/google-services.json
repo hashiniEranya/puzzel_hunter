@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821043143637",
+    "project_id": "minegame-266c6",
+    "storage_bucket": "minegame-266c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821043143637:android:928145b4441ec9f9a7135c",
+        "android_client_info": {
+          "package_name": "com.example.nb_minegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821043143637-btr8m00lncc2akv2e6s4n84i7g0v1kvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-cE8Vmm7rIatW_1-Aw_V5gcq7G_FCCTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821043143637-btr8m00lncc2akv2e6s4n84i7g0v1kvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

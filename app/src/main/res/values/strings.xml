@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MineGame</string>
+    <string name="greeting">Welcome Back !</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup_text">Don’t have an account? Signup</string>
+    <string name="enter_username">Enter username !</string>
+    <string name="enter_password">Enter password !</string>
+    <string name="create_account">Create an account !</string>
+    <string name="nic">NIC No (This is will be username)</string>
+    <string name="contact_no">Contact No</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="signup">Signup</string>
+    <string name="login_text">Already have an account? Login</string>
+    <string name="no_internet_message">No active internet connection !</string>
+    <string name="customer_already_exist">This user already exist !</string>
+    <string name="password_empty_msg">Enter password ! (Password must be more than 3 digits)</string>
+    <string name="account_not_found">This user not registered !</string>
+    <string name="password_error_message">Username or password incorrect !</string>
+    <string name="operation_successful">Operation successful !</string>
+    <string name="password_does_not_matched">Passwords does not matched !</string>
+    <string name="submit">Submit</string>
+    <string name="fetching">fetching</string>
+    <string name="remaining_time">Remaing time</string>
+    <string name="server_error_message">Server error !</string>
+    <string name="enter_answer">Enter your answer !</string>
+    <string name="quiz_no">Quiz No :</string>
+    <string name="score">"Score : "</string>
+</resources>
