@@ -15,11 +15,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 
-/**
- * @author chalana
- * @created 2023/02/09 | 9:38 AM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 
 
 public class Repository {

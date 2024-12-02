@@ -1,9 +1,5 @@
 package com.example.nb_minegame.ui;
 
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.Observer;
-
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.graphics.drawable.Drawable;
@@ -11,6 +7,10 @@ import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
 import android.view.View;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.lifecycle.Observer;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.DataSource;
@@ -32,7 +32,7 @@ public class HomeActivity extends AppCompatActivity {
 
     private ActivityHomeBinding binding;
     private CountDownTimer timer;
-    private int countDownTime = 15 * 1000;
+    private int countDownTime = 20 * 1000;
     private int remainTime = 0;
     private QuizViewModel quizViewModel;
     private Dialog progressDialog;
