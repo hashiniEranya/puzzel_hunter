@@ -3,11 +3,7 @@ package com.example.nb_minegame.model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * @author chalana
- * @created 2023/03/12 | 12:06 PM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class QuizResponse {
     @SerializedName("question")
     @Expose

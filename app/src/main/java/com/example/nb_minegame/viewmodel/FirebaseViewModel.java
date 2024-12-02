@@ -16,11 +16,7 @@ import com.example.nb_minegame.util.StringUtility;
 
 import org.jetbrains.annotations.NotNull;
 
-/**
- * @author chalana
- * @created 2022/12/10 | 3:33 PM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class FirebaseViewModel extends BaseViewModel {
 
     private void onLoading() {

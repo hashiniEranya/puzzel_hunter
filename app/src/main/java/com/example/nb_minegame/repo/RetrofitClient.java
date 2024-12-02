@@ -12,11 +12,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 
-/**
- * @author chalana
- * @created 2023/02/09 | 9:16 AM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class RetrofitClient {
     private static Retrofit retrofit = null;
 

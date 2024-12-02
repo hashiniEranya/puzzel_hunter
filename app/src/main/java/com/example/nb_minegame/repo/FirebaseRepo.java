@@ -18,11 +18,7 @@ import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 
-/**
- * @author chalana
- * @created 2022/12/10 | 3:04 PM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class FirebaseRepo {
 
     private Activity activity;

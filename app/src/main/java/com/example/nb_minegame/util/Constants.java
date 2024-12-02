@@ -1,10 +1,6 @@
 package com.example.nb_minegame.util;
 
-/**
- * @author chalana
- * @created 2023/03/12 | 10:05 AM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class Constants {
     public static final String FIRESTORE_USER = "USER";
     public static final String ACTIVE_STATUS = "active";
