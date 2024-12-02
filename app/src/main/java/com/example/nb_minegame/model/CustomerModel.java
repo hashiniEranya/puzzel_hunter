@@ -1,10 +1,6 @@
 package com.example.nb_minegame.model;
 
-/**
- * @author chalana
- * @created 2022/12/10 | 3:07 PM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class CustomerModel {
     private String username;
     private String password;

@@ -12,11 +12,7 @@ import com.example.nb_minegame.repo.Repository;
 
 import org.jetbrains.annotations.NotNull;
 
-/**
- * @author chalana
- * @created 2023/03/12 | 12:11 PM
- * @contact Chalana.n@fidenz.com | 071 6 359 376
- */
+
 public class QuizViewModel extends BaseViewModel{
 
     private void onLoading() {

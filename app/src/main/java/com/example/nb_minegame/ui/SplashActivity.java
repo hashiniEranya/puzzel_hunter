@@ -1,11 +1,10 @@
 package com.example.nb_minegame.ui;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.example.nb_minegame.MainActivity;
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.example.nb_minegame.R;
 import com.example.nb_minegame.util.Constants;
 import com.example.nb_minegame.util.LogUtil;
@@ -37,10 +36,10 @@ public class SplashActivity extends AppCompatActivity {
 
     private void validateLogin() {
         if (StringUtility.isNotNull(preferenceManager.getString(Constants.USER_DATE))) { //check logged in as customer
-            LogUtil.debug("fuck","Home");
+            LogUtil.debug("","Home");
             Utility.startActivityFinish(HomeActivity.class, this);
         } else {
-            LogUtil.debug("fuck","login");
+            LogUtil.debug("","login");
             Utility.startActivityFinish(LoginActivity.class, this);
         }
     }
