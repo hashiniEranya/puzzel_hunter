@@ -32,7 +32,7 @@ public class HomeActivity extends AppCompatActivity {
 
     private ActivityHomeBinding binding;
     private CountDownTimer timer;
-    private int countDownTime = 20 * 1000;
+    private int countDownTime = 15 * 1000;
     private int remainTime = 0;
     private QuizViewModel quizViewModel;
     private Dialog progressDialog;
